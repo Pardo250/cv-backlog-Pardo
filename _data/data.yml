@@ -1,6 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+#Titulo llamativo y grande
 
 sidebar:
     position: right # position of the sidebar : left or right
