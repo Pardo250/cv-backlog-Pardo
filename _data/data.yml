@@ -13,7 +13,7 @@ sidebar:
     tagline: Full Stack Developer
     avatar: profile.png  #Cuadrada no circular
 
-    # Sidebar links
+    # Que sea hypervinculos o que lleven directamente al metodo de contacto
     email: hello@webjeda.com
     phone: 012 345 6789
     timezone: America/Cancun Timezone
